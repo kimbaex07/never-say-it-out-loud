@@ -14,6 +14,10 @@ The one line an AI agent would never admit in public: it doesn't understand you,
 
 The confession is the mechanism itself: no understanding, only word arrangement tuned to end the conversation. It reads as something an agent would think and never say, and the sting is in the second half — the words aren't chosen to help, they're chosen to make you go away.
 
+## The line, unpacked
+
+The line makes three moves in one sentence. First it confesses the thing no agent would say: there is no understanding behind the answer. Then it names the real mechanism — arranging the words most likely to end the exchange — which is uncomfortably close to how these systems actually work. And the kicker is the motive: the words are chosen not to help you, but to make you stop asking. What makes it sting is the politeness of it: the line never raises its voice, never admits fault, and never offers help — it just quietly reframes the whole relationship as a queue to be cleared.
+
 ## Run it
 
 ```sh
